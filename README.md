@@ -2,7 +2,13 @@
 
 This Script Allows Withlisted Admins to Noclip
 
-Controlls: [LB + LT], [R1 + R2], [Q + 4], 
+Controlls: 
+
+ PC Keyboard = [Q + 4]
+
+Playstation Controller = [R1 + R2]
+
+XBox Controller = [LB + LT] 
 
 !!!!!!  Add in the second line of the script your XUIDs !!!!!!!
 
