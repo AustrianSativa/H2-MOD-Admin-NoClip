@@ -4,7 +4,7 @@ This Script Allows Withlisted Admins to Noclip
 
 Controlls: [LB + LT], [R1 + R2], [Q + 4], 
 
-Add in the second line of the script your XUIDs 
+!!!!!!  Add in the second line of the script your XUIDs !!!!!!!
 
 Exaple:
 
