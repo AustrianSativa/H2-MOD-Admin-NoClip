@@ -2,16 +2,21 @@
 
 This Script Allows Withlisted Admins to Noclip
 
-Controlls: 
-
- PC Keyboard = [Q + 4]
-
-Playstation Controller = [R1 + R2]
-
-XBox Controller = [LB + LT] 
+PATH:Call of Duty Modern Warfare Remastered 2\user_scripts\mp
 
 !!!!!!  Add in the second line of the script your XUIDs !!!!!!!
 
 Exaple:
 
 level.XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
+
+___________________________________________________________________________________________
+
+Controlls: 
+
+PC Keyboard = [Q + 4]
+
+Playstation Controller = [R1 + R2]
+
+XBox Controller = [LB + LT] 
+
