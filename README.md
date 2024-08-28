@@ -8,7 +8,9 @@ PATH:Call of Duty Modern Warfare Remastered 2\user_scripts\mp
 
 Exaple:
 
-level.XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
+level.Admin_XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
+
+level.VIP_XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
 
 ___________________________________________________________________________________________
 
