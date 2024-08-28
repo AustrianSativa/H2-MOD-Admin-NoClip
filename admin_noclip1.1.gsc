@@ -1,6 +1,6 @@
 init() {
-    level.Admin_XUIDs = ["5ce5daeeef33a81eadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
-    level.VIP_XUIDs = ["5ce5daeeef33a81e", "anotherXUID12345678", "yetAnotherXUID98765432"];
+    level.Admin_XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
+    level.VIP_XUIDs = ["anotherXUIDadadw", "anotherXUID12345678", "yetAnotherXUID98765432"];
 
     level thread on_player_connected();
     level thread player_connect_event();
