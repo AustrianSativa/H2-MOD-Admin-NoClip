@@ -1,5 +1,13 @@
 ![h2m](https://github.com/user-attachments/assets/4ca24ebf-86f1-4bc6-96d5-570e4110b8b9)
-    
+
+<div align="center">
+  <a href="https://discord.gg/bXAuff2nsm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Austria_Sativa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 #H2-MOD-Admin-NoClip
 
