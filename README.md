@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 Controlls: 
 
-PC Keyboard = "[Q + 4]"
+PC Keyboard = [Q + 4]
 
 Playstation Controller = [R1 + R2]
 
